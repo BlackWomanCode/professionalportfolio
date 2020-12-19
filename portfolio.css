@@ -1,6 +1,6 @@
 body {
-    background-color: #e2f5f5;
-background-image: url("https://www.transparenttextures.com/patterns/brick-wall-dark.png");
+   background-color: #e1e6cf;
+background-image: url("https://www.transparenttextures.com/patterns/graphy.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .nav-link { 
@@ -13,20 +13,29 @@ background-image: url("https://www.transparenttextures.com/patterns/brick-wall-d
 h6 {
     font-style: italic; 
     text-align: center;
-    font-size: 23px;
+    font-size: 40px;
     padding-top: 6rem;
     font-family: serif;
     color: turquoise;
+    font-weight: bold;
 }
 
 h4 {
     font-style: italic; 
     text-align: center;
-    font-size: 9ch;
+    font-size: 10ch;
     padding-bottom: 20%;
     padding-top: 1rem;
     font-family: serif;
     color: #ee81ee;
+}
+
+.btn-resume {
+    align-content: center;
+    margin-bottom: -15em;
+    margin-right: 20px;
+    margin-left: 51px;
+    margin: 0vh;
 }
 #headname {
     font-family: monospace;
@@ -108,3 +117,49 @@ border-radius: 50em 50em 50em 50em
     color: #1B9DBD; 
     background-color: #FFFFFF; 
   }
+
+  
+
+  #contactme{
+    align-items: center;
+    margin-left: rem;
+    ;
+  }
+
+  #roadmap {
+      text-align: center; 
+      margin-top: 7rem;
+      font-size: 19pt;
+      font-family: fantasy;
+      color: violet;
+      /* margin: center; */
+      margin-left: 31rem;
+      background-color: turquoise;
+      /* background-size: 40rem;  */
+      border-radius: 40em 400em 60% 80%; 
+
+  }
+.form-control {
+    align-items: center;
+    width: 600px;
+    margin-left: 40em;
+    margin-top: 0rem;
+    /* margin: center; */
+    
+}
+
+.btn-secondary {
+    margin-left: 40rem;
+    
+}
+
+footer{
+    text-align: center;
+    color: turquoise;
+    background-color: violet;
+    font-family: fantasy;
+    font-size: 12pt;
+    font-weight: lighter;
+    font-style: oblique;
+    margin-top: 5cm;
+}
