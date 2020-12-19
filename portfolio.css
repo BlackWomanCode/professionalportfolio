@@ -1,0 +1,110 @@
+body {
+    background-color: #e2f5f5;
+background-image: url("https://www.transparenttextures.com/patterns/brick-wall-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.nav-link { 
+    font-size: 20px;
+    font-style: oblique;
+    color: turquoise;
+    font-family: sans-serif;
+}
+
+h6 {
+    font-style: italic; 
+    text-align: center;
+    font-size: 23px;
+    padding-top: 6rem;
+    font-family: serif;
+    color: turquoise;
+}
+
+h4 {
+    font-style: italic; 
+    text-align: center;
+    font-size: 9ch;
+    padding-bottom: 20%;
+    padding-top: 1rem;
+    font-family: serif;
+    color: #ee81ee;
+}
+#headname {
+    font-family: monospace;
+    text-align: center;
+    font-size: 45pt; 
+    margin-bottom: 3rem;
+    font-style:oblique;
+}
+
+#melitapic {
+    padding-right: 15px; 
+    padding-left: 15px;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+    background-color: turquoise;
+    height: 25rem;
+    margin-left: 20rem;
+    margin-bottom: 10rem;
+    margin-top: -7rem;
+    border-radius: 50em 50em 50em 50em;
+}
+
+#portfolio {
+margin-bottom:5rem;
+margin-top:7rem; 
+text-align: center;
+font-size: 45pt;
+font-family: monospace;
+font-style: oblique;
+background-color: #ee81ee;
+background-image: url("https://www.transparenttextures.com/patterns/tileable-wood-colored.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+border-radius: 50em 50em 50em 50em
+
+}
+/* Button made by: https://blog.koalite.com/bbg/ */
+.btn-resume { 
+    color: #FFFFFF; 
+    background-color: #1B9DBD; 
+    border-color: #024069; 
+  } 
+   
+  .btn-resume:hover, 
+  .btn-resume:focus, 
+  .btn-resume:active, 
+  .btn-resume.active, 
+  .open .dropdown-toggle.btn-resume { 
+    color: #FFFFFF; 
+    background-color: #9058A1; 
+    border-color: #024069; 
+  } 
+   
+  .btn-resume:active, 
+  .btn-resume.active, 
+  .open .dropdown-toggle.btn-resume { 
+    background-image: none; 
+  } 
+   
+  .btn-resume.disabled, 
+  .btn-resume[disabled], 
+  fieldset[disabled] .btn-resume, 
+  .btn-resume.disabled:hover, 
+  .btn-resume[disabled]:hover, 
+  fieldset[disabled] .btn-resume:hover, 
+  .btn-resume.disabled:focus, 
+  .btn-resume[disabled]:focus, 
+  fieldset[disabled] .btn-resume:focus, 
+  .btn-resume.disabled:active, 
+  .btn-resume[disabled]:active, 
+  fieldset[disabled] .btn-resume:active, 
+  .btn-resume.disabled.active, 
+  .btn-resume[disabled].active, 
+  fieldset[disabled] .btn-resume.active { 
+    background-color: #1B9DBD; 
+    border-color: #024069; 
+  } 
+   
+  .btn-resume .badge { 
+    color: #1B9DBD; 
+    background-color: #FFFFFF; 
+  }
